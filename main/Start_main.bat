@@ -1,0 +1,1 @@
+C:\ProgramData\anaconda3\envs\jarvis\python.exe C:\Users\devuser\Documents\DataServices\main\main.py
