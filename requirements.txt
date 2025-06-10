@@ -1,0 +1,10 @@
+# Core dependencies
+pandas>=1.5.0
+requests>=2.28.0
+python-dotenv>=0.21.0
+python-dateutil>=2.8.2
+pytz>=2023.3
+
+# Optional dependencies for development
+jupyter>=1.0.0  # For running the notebook
+ipykernel>=6.25.0  # For Jupyter notebook support 
